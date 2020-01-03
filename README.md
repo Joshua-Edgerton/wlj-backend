@@ -2,8 +2,7 @@
 Backend for weight-lifting-journal-3
 
 # Initializing the Project
-Requirements:
-Insomnia
+## Requirements: Insomnia
 
 1) Install Insomnia.
 2) Create a "New Request".
@@ -19,9 +18,9 @@ Insomnia
 JSON requirements for users:
 ```
 {
-"firstName": "First Name"
-"lastName": "Last Name"
-"email": "Email"
+"firstName": "First Name",
+"lastName": "Last Name",
+"email": "Email",
 "password": "Password"
 }
 ```
@@ -36,9 +35,9 @@ For all of the following instructions you may replace `localhost:5050` with the 
 4) Under "Body" choose the "JSON" format in which you will register with. The JSON format should look similar to the following -
 ```
 {
-"firstName": "Your First Name Here"
-"lastName": "Your Last Name Here"
-"email": "Your Email Here"
+"firstName": "Your First Name Here",
+"lastName": "Your Last Name Here",
+"email": "Your Email Here",
 "password": "Your Password Here"
 }
 ```
