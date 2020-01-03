@@ -3,7 +3,7 @@ Backend for weight-lifting-journal-3
 
 # Initializing the Project
 Requirements:
-[] Insomnia
+Insomnia
 
 1) Install Insomnia.
 2) Create a "New Request".
